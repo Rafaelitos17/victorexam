@@ -1,0 +1,20 @@
+.result {
+    width: 500px;
+    height: 150px;
+    background-color: #6EE4FF;
+    border: 5px solid #6EE4FF;
+    border-radius: 10px;
+    margin: 30px auto
+}
+
+.result span {
+    display: block;
+    font-size: 65px;
+    font-weight: bold;
+    color: #2A2C36;
+    padding-top: 35px
+}
+
+.resultIsDone span{
+    color: red;
+}
